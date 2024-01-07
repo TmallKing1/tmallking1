@@ -10,16 +10,16 @@ Hello there, I'm Xiaozhu Zhizui(means The Best of Piglets), an "Ordinary Minecra
 
 - 《Minecraft Java版》玩家名：xiaozhu_zhizui
 - 《Minecraft 基岩版》Xbox用户名：TmallKing1
-- 《原神》（国际服）UID：856562759
 - 《崩坏：星穹铁道》（国服）UID：107446634
+- 《原神》（国际服）UID：856562759
 - 《原神》（国服）UID：240889980
 
 English
 
 - Minecraft Java Edition - Player Name: xiaozhu_zhizui
 - Minecraft Bedrock Edition - Xbox Name: TmallKing1
-- Genshin Impact (OSREL) - UID: 856562759
 - Honkai: Star Rail (CNREL) - UID: 107446634
+- Genshin Impact (OSREL) - UID: 856562759
 - Genshin Impact (CNREL) - UID: 240889980
 
 ## 社交 Social
